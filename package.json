@@ -1,0 +1,23 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "My interpretation of FreeCodeCamp Responsive Web Design Projects - Build a Tribute Page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raidzklart/FCC-Build-a-Tribute-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raidzklart/FCC-Build-a-Tribute-Page/issues"
+  },
+  "homepage": "https://raidzklart.github.com/FCC-Build-a-Tribute-Page",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
